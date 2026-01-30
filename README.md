@@ -1,16 +1,10 @@
 # Dima Sivan
 
-Full-stack software developer focused on architecture, performance, and maintainability.
+I build reliable, scalable applications across web and desktop. 
 
-10+ years building and shipping production applications.
-
----
-
-TypeScript • React • Next.js • Electron • Node.js
+Over 10 years of professional experience delivering production systems, leading complex frontend work, and owning features end-to-end — from design to deployment.
 
 ---
-
-I value simplicity, clarity, and systems that age well.
 
 
 ## 📫 Get in Touch  
@@ -23,3 +17,31 @@ I value simplicity, clarity, and systems that age well.
 <a href="https://www.linkedin.com/in/dimasivan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+---
+
+## Expertise
+
+- Frontend architecture at scale
+- System & API design
+- Performance and reliability
+- Cloud deployment & CI/CD
+- Automated testing (unit, E2E)
+- Maintainable, long-lived codebases
+
+---
+
+## Stack
+
+TypeScript • React • Next.js • Electron
+Node.js • PostgreSQL
+Cloud & CI/CD pipelines
+Playwright • Cypress • Unit testing
+
+---
+
+## Approach
+
+Optimize for clarity.
+Prefer durable solutions over quick wins.
+Build systems that scale — technically and organizationally.

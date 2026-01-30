@@ -1,17 +1,17 @@
-# Hi there, I'm Dima Sivan 👋
+# Dima Sivan
 
-🚀 **Software Developer | Frontend Engineer**  
-I build scalable, user-friendly applications that balance performance and usability. Currently, I'm a **Senior Frontend Developer at ACTUM Digital**, where I focus on creating reliable, well-structured systems for seamless user experiences. Outside of coding, I enjoy exploring new technologies, mentoring developers, and working on side projects.
+Full-stack software developer focused on architecture, performance, and maintainability.
+
+10+ years building and shipping production applications.
+
+---
+
+TypeScript • React • Next.js • Electron • Node.js
 
 ---
 
-## 🔧 Tech Stack & Skills  
-💻 **Languages:** JavaScript (ES6+), TypeScript, Python, PHP  
-🌐 **Frontend:** HTML5, CSS3 *(Tailwind CSS)*, React, Next.js, GraphQL  
-🛠 **Backend & Tools:** MySQL, PostgreSQL, Docker, Git  
-🎯 **Others:** Web3 *(Web3.js, Solidity)*, Web Accessibility (WCAG)  
+I value simplicity, clarity, and systems that age well.
 
----
 
 ## 📫 Get in Touch  
 <a href="mailto:dima@sivan.cz" target="_blank">

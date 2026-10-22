@@ -33,10 +33,7 @@ Over 10 years of professional experience delivering production systems, leading 
 
 ## Stack
 
-TypeScript • React • Next.js • Electron
-Node.js • PostgreSQL
-Cloud & CI/CD pipelines
-Playwright • Cypress • Unit testing
+TypeScript • React • Next.js • Electron • Node.js • PostgreSQL • Cloud & CI/CD pipelines • Playwright • Cypress • Unit testing
 
 ---
 
